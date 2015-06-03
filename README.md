@@ -1,5 +1,5 @@
 # orbital
-<b>PROJECT README<b>
+<b>PROJECT README</b>
 
 <b>Team / Project Name:</b> IRIS / (to be named later)               
 
