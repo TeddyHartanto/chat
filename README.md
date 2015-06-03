@@ -40,5 +40,4 @@ New conversation button to start a new conversation
 Report inappropriate button: users can report inappropriate other users by sending the details of their report so that the administrators can review the case and take appropriate measures.
 View chat history button: show chat history of each user (within the most recent 30 days)
 Search for keyword: users can search keywords in their chat.
-<br />
-Features planned to be completed for this sprint: 1 and 3
+<p>Features planned to be completed for this sprint: 1 and 3</p>
