@@ -25,9 +25,11 @@
 #chatbox section {
 	height: 520px;
 	overflow: auto;
+	padding: 15px;
 }
 
 #chatbox footer {
+	padding: 10px;
 	height: 80px;
 	border-top: 1px;
 	border-right: 0px;

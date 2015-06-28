@@ -27,5 +27,11 @@ app.controller('SignInCtrl', [
 app.controller('HomeCtrl', [
 	'$scope',
 	function($scope) {
-		$scope.test = 'Hello World!';
+		$scope.messages = [];
+		$scope.input = '';
+		$scope.send = function() {
+			if ($scope.input === '') { return;}
+			$scope.messages.push($scope.input);
+			$scope.input = '';
+		}
 }]);
